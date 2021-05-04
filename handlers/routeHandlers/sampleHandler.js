@@ -17,7 +17,7 @@ handler.sampleHandler = (requestProperties, callback) => {
 handler.sample = (requestProperties, callback) => {
     
     callback(200, {
-        message: 'This is a sample url 1',
+        message: 'This is a sample url 2',
     });
 };
 
